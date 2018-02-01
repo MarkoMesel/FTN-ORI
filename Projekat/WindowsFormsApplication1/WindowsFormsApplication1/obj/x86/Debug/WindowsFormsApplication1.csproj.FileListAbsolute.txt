@@ -1,0 +1,10 @@
+D:\FAKS\Materijali - ORI\PROJEKAT!\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\FAKS\Materijali - ORI\PROJEKAT!\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\FAKS\Materijali - ORI\PROJEKAT!\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+D:\FAKS\Materijali - ORI\PROJEKAT!\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\FAKS\Materijali - ORI\PROJEKAT!\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\FAKS\Materijali - ORI\PROJEKAT!\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\FAKS\Materijali - ORI\PROJEKAT!\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\FAKS\Materijali - ORI\PROJEKAT!\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\FAKS\Materijali - ORI\PROJEKAT!\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\FAKS\Materijali - ORI\PROJEKAT!\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
